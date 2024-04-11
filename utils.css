@@ -1,0 +1,22 @@
+.text-center {
+    text-align: center;
+    color: aqua;
+
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+}
+
+.mx-auto {
+    max-width: 300px;
+    margin: auto;
+    background-color: rgb(248, 156, 126);
+    border-radius: 10px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,44 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(40, 38, 38);
+}
+
+.button {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+    margin: 0 4px;
+    border: 2px solid rgb(188, 22, 22);
+    border-radius: 9px;
+    background-color: rgba(7, 0, 0, 0.688);
+    color: white;
+}
+
+.clr-btn {
+    font-size: 13px;
+    padding: 25px 18px;
+    background-color: rgb(239, 27, 27);
+}
+
+.result {
+    border-radius: 50px;
+    background-color: orange;
+    font-weight: bolder;
+}
+
+.row {
+    margin: 8px 0;
+}
+
+.row .input {
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
